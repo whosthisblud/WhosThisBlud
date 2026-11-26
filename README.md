@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=180&section=header&text=whosthisblud&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/whosthisblud">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=AIML+Student;Building+real+things%2C+not+tutorials;Hackathons.+Projects.+Pitches.;Shipping+models+that+actually+work" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Builder;Building+real+things%2C+not+tutorials;Hackathons.+Projects.+Pitches.;Shipping+models+that+actually+work" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -19,8 +19,6 @@
 
 ```yaml
 name:      whosthisblud
-location:  India
-status:    AIML Diploma -> BTech AIML (lateral entry)
 focus:     [Machine Learning, Deep Learning, Building Products]
 currently: [shipping projects, hackathons, learning in public]
 motto:     "Build first. Explain later."
@@ -73,15 +71,5 @@ motto:     "Build first. Explain later."
 </div>
 
 ---
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whosthisblud/whosthisblud/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whosthisblud/whosthisblud/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/whosthisblud/whosthisblud/output/github-snake.svg" />
-</picture>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
